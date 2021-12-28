@@ -2,6 +2,12 @@
 
 Perkenalkan nama saya **Wahyu Rahmaditama Putera**.
 
+<p align="left">
+<a href="https://github.com/wahyurp">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyurp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyurp&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **wahyurp/wahyurp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
